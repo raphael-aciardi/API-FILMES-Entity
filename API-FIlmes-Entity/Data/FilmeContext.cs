@@ -10,6 +10,10 @@ public class FilmeContext : DbContext
                
     }
 
+    protected FilmeContext()
+    {
+    }
+
     public DbSet<Filme> Filmes { get; set; }
 
 }
