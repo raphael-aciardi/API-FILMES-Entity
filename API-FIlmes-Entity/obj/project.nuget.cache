@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ym1SJ5jJhz9XhXoMywZ7sQJtfObyrZG8b4KqCqfRNXDAAHEx+2p4tGq39+AX/ihj1dpgyntCs+aCwaudcg4dtA==",
+  "dgSpecHash": "/rxuCL8JveXVIipU2QjJlbG4bkyHfUnczWjYxasxJKKgoUmku1eXtBp2O0Vjgw2/dMSnYqWQOldYMDlICrFGlw==",
   "success": true,
   "projectFilePath": "C:\\Users\\DOQR - NOTE 03\\source\\repos\\API-FIlmes-Entity\\API-FIlmes-Entity\\API-FIlmes-Entity.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\DOQR - NOTE 03\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\DOQR - NOTE 03\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\DOQR - NOTE 03\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\DOQR - NOTE 03\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

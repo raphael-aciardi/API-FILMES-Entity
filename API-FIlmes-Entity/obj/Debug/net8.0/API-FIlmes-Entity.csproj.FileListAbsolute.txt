@@ -104,3 +104,4 @@ C:\Users\DOQR - NOTE 03\source\repos\API-FIlmes-Entity\API-FIlmes-Entity\bin\Deb
 C:\Users\DOQR - NOTE 03\source\repos\API-FIlmes-Entity\API-FIlmes-Entity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\DOQR - NOTE 03\source\repos\API-FIlmes-Entity\API-FIlmes-Entity\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\DOQR - NOTE 03\source\repos\API-FIlmes-Entity\API-FIlmes-Entity\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\DOQR - NOTE 03\source\repos\API-FIlmes-Entity\API-FIlmes-Entity\bin\Debug\net8.0\AutoMapper.dll
